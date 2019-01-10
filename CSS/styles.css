@@ -16,6 +16,20 @@ html,body {
 }
 
 
+#blurbBox {
+	position: absolute;
+	bottom: 56px;
+	width: 285px;
+	padding: 0 21px;
+	font-size: 14px;
+}
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
+
+
 .box {
 	box-shadow: 2px 2px 0px #949494;
 	background: #444;
