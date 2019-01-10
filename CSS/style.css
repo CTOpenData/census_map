@@ -20,7 +20,7 @@ html,body {
 	position: absolute;
 	top: 250px;
 	left: 0;
-	width: 150px;
+	width: auto;
 	padding: 0 18px;
 	font-size: 14px;
 }
