@@ -19,6 +19,7 @@ html,body {
 #blurbBox {
 	position: absolute;
 	top: 80px;
+	left: 0;
 	width: 285px;
 	padding: 0 21px;
 	font-size: 14px;
