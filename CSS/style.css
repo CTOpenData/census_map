@@ -1,0 +1,32 @@
+html,body {
+  margin:0;
+  padding:0;
+  height:100%;
+  width:100%;
+  color:#fff;
+  font-family:sans-serif;
+}
+
+#infoBox {
+	position: absolute;
+	top: 70px;
+	left: 0;
+	padding: 20px;
+	font-size: 24px;
+}
+
+
+#blurbBox {
+	position: absolute;
+	bottom: 56px;
+	width: 285px;
+	padding: 0 21px;
+	font-size: 14px;
+}
+
+
+.box {
+	box-shadow: 2px 2px 0px #949494;
+	background: #444;
+    opacity: 0.8;
+}
