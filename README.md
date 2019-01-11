@@ -9,5 +9,5 @@ Access the underlying data on the [Connecticut Open Data Portal](https://data.ct
 ## About
 This map was built using R. [Access the R code](https://github.com/CTOpenData/census_map/tree/master/Source%20data%20and%20R%20script)
 
-##License
+## License
 All data an code created to produce this map are within the public domain. Some packages and depencies may be more restictive.
